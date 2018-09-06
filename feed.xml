@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Cash Wu Geek</title>
+    <link href="https://cashwu.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://cashwu.github.io/gh-pages" />
+    <updated>2018-09-06T22:10:29+08:00</updated>
+    <author>
+        <name>cash</name>
+    </author>
+    <id>https://cashwu.github.io/gh-pages</id>
+
+    <entry>
+        <title>TEST POST</title>
+        <author>
+            <name>cash</name>
+        </author>
+        <link href="https://cashwu.github.io/gh-pages/test-post.html"/>
+        <id>https://cashwu.github.io/gh-pages/test-post.html</id>
+
+        <updated>2018-09-06T22:10:23+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cashwu.github.io/gh-pages/media/posts/1/" alt="" />
+                     TEST POST pubilc void Test() { return test } 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cashwu.github.io/gh-pages/media/posts/1/" alt="" />
+                <p> </p>
+<p><strong>TEST POST</strong></p>
+<p> </p>
+<pre><code>pubilc void Test()</code><br><code>{</code><br><code>  return test</code><br><code>}</code></pre>
+<p><img class="post__image--center" src="https://cashwu.github.io/gh-pages/media/posts/1/aaa.svg" alt="" width="768" height="443"> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

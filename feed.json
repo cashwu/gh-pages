@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Cash Wu Geek",
+    "description": "",
+    "home_page_url": "https://cashwu.github.io/gh-pages",
+    "feed_url": "https://cashwu.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "cash"
+    },
+    "items": [
+        {
+            "id": "https://cashwu.github.io/gh-pages/test-post.html",
+            "url": "https://cashwu.github.io/gh-pages/test-post.html",
+            "title": "TEST POST",
+            "summary": " TEST POST pubilc void Test() { return test } ",
+            "content_html": "<p> </p>\n<p><strong>TEST POST</strong></p>\n<p> </p>\n<pre><code>pubilc void Test()</code><br><code>{</code><br><code>  return test</code><br><code>}</code></pre>\n<p><img class=\"post__image--center\" src=\"https://cashwu.github.io/gh-pages/media/posts/1/aaa.svg\" alt=\"\" width=\"768\" height=\"443\"> </p>\n<p> </p>",
+            "image": "https://cashwu.github.io/gh-pages/media/posts/1/",
+            "author": {
+                "name": "cash"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-31T22:49:06+08:00",
+            "date_modified": "2018-09-06T22:10:23+08:00"
+        }
+    ]
+}
