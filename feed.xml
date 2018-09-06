@@ -3,59 +3,38 @@
     <title>Cash Wu Geek</title>
     <link href="https://cashwu.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://cashwu.github.io/gh-pages" />
-    <updated>2018-09-06T23:00:05+08:00</updated>
+    <updated>2018-09-06T23:09:28+08:00</updated>
     <author>
-        <name>cash</name>
+        <name>Cash</name>
     </author>
     <id>https://cashwu.github.io/gh-pages</id>
 
     <entry>
-        <title>TEST 123 456</title>
+        <title>TEST 123</title>
         <author>
-            <name>cash</name>
+            <name>Cash</name>
         </author>
-        <link href="https://cashwu.github.io/gh-pages/test-123-456/"/>
-        <id>https://cashwu.github.io/gh-pages/test-123-456/</id>
+        <link href="https://cashwu.github.io/gh-pages/test-123.html"/>
+        <id>https://cashwu.github.io/gh-pages/test-123.html</id>
 
-        <updated>2018-09-06T22:59:59+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://cashwu.github.io/gh-pages/media/posts/2/" alt="" />
-                     &lt;script defer="defer" src="https://code.jquery.com/jquery-3.2.1.slim.min.js" &gt;SDFSD
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://cashwu.github.io/gh-pages/media/posts/2/" alt="" />
-                <p> </p>
-<pre><span class="pl-ent">&lt;script</span> <span class="pl-e">defer</span>=<span class="pl-s"><span class="pl-pds">"</span>defer<span class="pl-pds">"</span></span> <span class="pl-e">src</span>=<span class="pl-s"><span class="pl-pds">"</span>https://code.jquery.com/jquery-3.2.1.slim.min.js<span class="pl-pds">" &gt;</span></span></pre>
-<p>SDFSD</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>TEST POST</title>
-        <author>
-            <name>cash</name>
-        </author>
-        <link href="https://cashwu.github.io/gh-pages/test-post/"/>
-        <id>https://cashwu.github.io/gh-pages/test-post/</id>
-
-        <updated>2018-09-06T22:10:23+08:00</updated>
+        <updated>2018-09-06T23:05:20+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cashwu.github.io/gh-pages/media/posts/1/" alt="" />
-                     TEST POST pubilc void Test() { return test } 
+                    &lt;script defer="defer" src="https://code.jquery.com/jquery-3.2.1.slim.min.js"&gt; sdf sdfsdf sdf sdfsdfs 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://cashwu.github.io/gh-pages/media/posts/1/" alt="" />
-                <p> </p>
-<p><strong>TEST POST</strong></p>
+                <pre><code><span class="pl-ent">&lt;script</span> <span class="pl-e">defer</span>=<span class="pl-s"><span class="pl-pds">"</span>defer<span class="pl-pds">"</span></span> <span class="pl-e">src</span>=</code><span class="pl-s"><code><span class="pl-pds">"</span><a href="https://code.jquery.com/jquery-3.2.1.slim.min.js">https://code.jquery.com/jquery-3.2.1.slim.min.js</a></code><span class="pl-pds"><code>"&gt;</code><br></span></span></pre>
 <p> </p>
-<pre><code>pubilc void Test()</code><br><code>{</code><br><code>  return test</code><br><code>}</code></pre>
-<p><img class="post__image--center" src="https://cashwu.github.io/gh-pages/media/posts/1/aaa.svg" alt="" width="768" height="443"> </p>
+<p>sdf</p>
+<p> </p>
+<p>sdfsdf</p>
+<p>sdf</p>
+<p>sdfsdfs</p>
+<p> </p>
 <p> </p>
             ]]>
         </content>

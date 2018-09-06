@@ -6,38 +6,23 @@
     "feed_url": "https://cashwu.github.io/gh-pages/feed.json",
     "user_comment": "",
     "author": {
-        "name": "cash"
+        "name": "Cash"
     },
     "items": [
         {
-            "id": "https://cashwu.github.io/gh-pages/test-123-456/",
-            "url": "https://cashwu.github.io/gh-pages/test-123-456/",
-            "title": "TEST 123 456",
-            "summary": " &lt;script defer=\"defer\" src=\"https://code.jquery.com/jquery-3.2.1.slim.min.js\" &gt;SDFSD",
-            "content_html": "<p> </p>\n<pre><span class=\"pl-ent\">&lt;script</span> <span class=\"pl-e\">defer</span>=<span class=\"pl-s\"><span class=\"pl-pds\">\"</span>defer<span class=\"pl-pds\">\"</span></span> <span class=\"pl-e\">src</span>=<span class=\"pl-s\"><span class=\"pl-pds\">\"</span>https://code.jquery.com/jquery-3.2.1.slim.min.js<span class=\"pl-pds\">\" &gt;</span></span></pre>\n<p>SDFSD</p>",
-            "image": "https://cashwu.github.io/gh-pages/media/posts/2/",
-            "author": {
-                "name": "cash"
-            },
-            "tags": [
-            ],
-            "date_published": "2018-09-06T22:59:59+08:00",
-            "date_modified": "2018-09-06T22:59:59+08:00"
-        },
-        {
-            "id": "https://cashwu.github.io/gh-pages/test-post/",
-            "url": "https://cashwu.github.io/gh-pages/test-post/",
-            "title": "TEST POST",
-            "summary": " TEST POST pubilc void Test() { return test } ",
-            "content_html": "<p> </p>\n<p><strong>TEST POST</strong></p>\n<p> </p>\n<pre><code>pubilc void Test()</code><br><code>{</code><br><code>  return test</code><br><code>}</code></pre>\n<p><img class=\"post__image--center\" src=\"https://cashwu.github.io/gh-pages/media/posts/1/aaa.svg\" alt=\"\" width=\"768\" height=\"443\"> </p>\n<p> </p>",
+            "id": "https://cashwu.github.io/gh-pages/test-123.html",
+            "url": "https://cashwu.github.io/gh-pages/test-123.html",
+            "title": "TEST 123",
+            "summary": "&lt;script defer=\"defer\" src=\"https://code.jquery.com/jquery-3.2.1.slim.min.js\"&gt; sdf sdfsdf sdf sdfsdfs ",
+            "content_html": "<pre><code><span class=\"pl-ent\">&lt;script</span> <span class=\"pl-e\">defer</span>=<span class=\"pl-s\"><span class=\"pl-pds\">\"</span>defer<span class=\"pl-pds\">\"</span></span> <span class=\"pl-e\">src</span>=</code><span class=\"pl-s\"><code><span class=\"pl-pds\">\"</span><a href=\"https://code.jquery.com/jquery-3.2.1.slim.min.js\">https://code.jquery.com/jquery-3.2.1.slim.min.js</a></code><span class=\"pl-pds\"><code>\"&gt;</code><br></span></span></pre>\n<p> </p>\n<p>sdf</p>\n<p> </p>\n<p>sdfsdf</p>\n<p>sdf</p>\n<p>sdfsdfs</p>\n<p> </p>\n<p> </p>",
             "image": "https://cashwu.github.io/gh-pages/media/posts/1/",
             "author": {
-                "name": "cash"
+                "name": "Cash"
             },
             "tags": [
             ],
-            "date_published": "2018-08-31T22:49:06+08:00",
-            "date_modified": "2018-09-06T22:10:23+08:00"
+            "date_published": "2018-09-06T23:05:20+08:00",
+            "date_modified": "2018-09-06T23:05:20+08:00"
         }
     ]
 }
