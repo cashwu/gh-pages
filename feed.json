@@ -13,8 +13,8 @@
             "id": "https://cashwu.github.io/gh-pages/abc-123/",
             "url": "https://cashwu.github.io/gh-pages/abc-123/",
             "title": "Abc 123",
-            "summary": "<p>sdfsdf</p>\n<p>sdf</p>\n<p>sdf</p>\n<p>sdfsdfsdf</p>\n<p>sdfsfsdfsdf</p>\n<p> </p>\n<figure class=\"post__image post__image--wide\" contenteditable=\"false\"><img src=\"#DOMAIN_NAME#aa.jpeg\" alt=\"test\" width=\"276\" height=\"183\">\n<figcaption contenteditable=\"true\"> MAC 123</figcaption>\n</figure>\n<p> </p>\n<p><img class=\"post__image--center\" src=\"#DOMAIN_NAME#aa.jpeg\" alt=\"\" width=\"234\" height=\"155\"></p>\n<p>TEST!@#</p>\n<hr>\n<blockquote>\n<p>sdsdfdfsdf</p>\n<p>sdfsdf</p>\n<p>sdfs</p>\n<p>df</p>\n</blockquote>\n<p> </p>\n",
-            "content_html": "<p>sdfsdf</p>\n<p>sdf</p>\n<p>sdf</p>\n<p>sdfsdfsdf</p>\n<p>sdfsfsdfsdf</p>\n<p> </p>\n<figure class=\"post__image post__image--wide\" ><img src=\"https://cashwu.github.io/gh-pages/media/posts/2/aa.jpeg\" alt=\"test\" width=\"276\" height=\"183\">\n<figcaption > MAC 123</figcaption>\n</figure>\n<p> </p>\n<p><img class=\"post__image--center\" src=\"https://cashwu.github.io/gh-pages/media/posts/2/aa.jpeg\" alt=\"\" width=\"234\" height=\"155\"></p>\n<p>TEST!@#</p>\n<hr>\n<blockquote>\n<p>sdsdfdfsdf</p>\n<p>sdfsdf</p>\n<p>sdfs</p>\n<p>df</p>\n</blockquote>\n<p> </p>\n\n<p>test 12312 </p>\n<pre>using System;<br><br>namespace Time<br>{<br><br> public class Time<br> {<br><br> private DateTime dt;<br><br> public Time()<br> {<br>   this.dt = DateTime.Now;<br> }<br><br> public Time(DateTime dt)<br> {<br>   this.dt = dt;<br> }<br><br> public Time(IDateTime dt)<br> {<br>   this.dt = dt.GetDate();<br> }<br><br> public string GetNowString()<br> {<br>   return dt.ToString(\"yyyy/MM/dd HH:mm:ss fff\");<br> }<br> <br> public interface IDateTime<br> {<br>   DateTime GetDate();<br> }<br>}</pre>",
+            "summary": "<p>sdfsdf</p>\n<p>sdf</p>\n<p>sdf</p>\n<p>sdfsdfsdf</p>\n<p>sdfsfsdfsdf</p>\n<p> </p>\n<p> </p>\n<p><img class=\"post__image--center\" src=\"#DOMAIN_NAME#aa.jpeg\" alt=\"\" width=\"234\" height=\"155\"></p>\n<p>TEST!@#</p>\n<hr>\n<blockquote>\n<p>sdsdfdfsdf</p>\n<p>sdfsdf</p>\n<p>sdfs</p>\n<p>df</p>\n</blockquote>\n<p> </p>\n",
+            "content_html": "<p>sdfsdf</p>\n<p>sdf</p>\n<p>sdf</p>\n<p>sdfsdfsdf</p>\n<p>sdfsfsdfsdf</p>\n<p> </p>\n<p> </p>\n<p><img class=\"post__image--center\" src=\"https://cashwu.github.io/gh-pages/media/posts/2/aa.jpeg\" alt=\"\" width=\"234\" height=\"155\"></p>\n<p>TEST!@#</p>\n<hr>\n<blockquote>\n<p>sdsdfdfsdf</p>\n<p>sdfsdf</p>\n<p>sdfs</p>\n<p>df</p>\n</blockquote>\n<p> </p>\n\n<p>test 12312 </p>\n<pre>using System;<br><br>namespace Time<br>{<br><br> public class Time<br> {<br><br> private DateTime dt;<br><br> public Time()<br> {<br>   this.dt = DateTime.Now;<br> }<br><br> public Time(DateTime dt)<br> {<br>   this.dt = dt;<br> }<br><br> public Time(IDateTime dt)<br> {<br>   this.dt = dt.GetDate();<br> }<br><br> public string GetNowString()<br> {<br>   return dt.ToString(\"yyyy/MM/dd HH:mm:ss fff\");<br> }<br> <br> public interface IDateTime<br> {<br>   DateTime GetDate();<br> }<br>}</pre>",
             "image": "https://cashwu.github.io/gh-pages/media/posts/2/",
             "author": {
                 "name": "Cash"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2018-09-07T08:42:20+08:00",
-            "date_modified": "2018-09-07T10:27:07+08:00"
+            "date_modified": "2018-09-07T12:24:42+08:00"
         },
         {
             "id": "https://cashwu.github.io/gh-pages/test-123/",
