@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://cashwu.github.io/gh-pages/abc-123.html",
-            "url": "https://cashwu.github.io/gh-pages/abc-123.html",
+            "id": "https://cashwu.github.io/gh-pages/abc-123/",
+            "url": "https://cashwu.github.io/gh-pages/abc-123/",
             "title": "Abc 123",
             "summary": "<figure class=\"post__image post__image--wide\" contenteditable=\"false\"><img src=\"#DOMAIN_NAME#aa.jpeg\" alt=\"test\" width=\"276\" height=\"183\">\n<figcaption contenteditable=\"true\"> MAC 123</figcaption>\n</figure>\n<p> </p>\n<p><img class=\"post__image--center\" src=\"#DOMAIN_NAME#aa.jpeg\" alt=\"\" width=\"234\" height=\"155\"></p>\n<p>TEST!@#</p>\n<hr>\n<blockquote>\n<p>sdsdfdfsdf</p>\n<p>sdfsdf</p>\n<p>sdfs</p>\n<p>df</p>\n</blockquote>\n<p> </p>\n",
             "content_html": "<figure class=\"post__image post__image--wide\" ><img src=\"https://cashwu.github.io/gh-pages/media/posts/2/aa.jpeg\" alt=\"test\" width=\"276\" height=\"183\">\n<figcaption > MAC 123</figcaption>\n</figure>\n<p> </p>\n<p><img class=\"post__image--center\" src=\"https://cashwu.github.io/gh-pages/media/posts/2/aa.jpeg\" alt=\"\" width=\"234\" height=\"155\"></p>\n<p>TEST!@#</p>\n<hr>\n<blockquote>\n<p>sdsdfdfsdf</p>\n<p>sdfsdf</p>\n<p>sdfs</p>\n<p>df</p>\n</blockquote>\n<p> </p>\n\n<p>test 12312 </p>\n<pre>using System;<br><br>namespace Time<br>{<br><br> public class Time<br> {<br><br> private DateTime dt;<br><br> public Time()<br> {<br>   this.dt = DateTime.Now;<br> }<br><br> public Time(DateTime dt)<br> {<br>   this.dt = dt;<br> }<br><br> public Time(IDateTime dt)<br> {<br>   this.dt = dt.GetDate();<br> }<br><br> public string GetNowString()<br> {<br>   return dt.ToString(\"yyyy/MM/dd HH:mm:ss fff\");<br> }<br> <br> public interface IDateTime<br> {<br>   DateTime GetDate();<br> }<br>}</pre>",
@@ -25,8 +25,8 @@
             "date_modified": "2018-09-07T08:51:42+08:00"
         },
         {
-            "id": "https://cashwu.github.io/gh-pages/test-123.html",
-            "url": "https://cashwu.github.io/gh-pages/test-123.html",
+            "id": "https://cashwu.github.io/gh-pages/test-123/",
+            "url": "https://cashwu.github.io/gh-pages/test-123/",
             "title": "TEST 123",
             "summary": "&lt;script defer=\"defer\" src=\"https://code.jquery.com/jquery-3.2.1.slim.min.js\"&gt; sdf sdfsdf sdf sdfsdfs ",
             "content_html": "<pre><code><span class=\"pl-ent\">&lt;script</span> <span class=\"pl-e\">defer</span>=<span class=\"pl-s\"><span class=\"pl-pds\">\"</span>defer<span class=\"pl-pds\">\"</span></span> <span class=\"pl-e\">src</span>=</code><span class=\"pl-s\"><code><span class=\"pl-pds\">\"</span><a href=\"https://code.jquery.com/jquery-3.2.1.slim.min.js\">https://code.jquery.com/jquery-3.2.1.slim.min.js</a></code><span class=\"pl-pds\"><code>\"&gt;</code><br></span></span></pre>\n<p> </p>\n<p>sdf</p>\n<p> </p>\n<p>sdfsdf</p>\n<p>sdf</p>\n<p>sdfsdfs</p>\n<p> </p>\n<p> </p>",

@@ -3,7 +3,7 @@
     <title>Cash Wu Geek</title>
     <link href="https://cashwu.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://cashwu.github.io/gh-pages" />
-    <updated>2018-09-07T08:51:46+08:00</updated>
+    <updated>2018-09-07T10:24:22+08:00</updated>
     <author>
         <name>Cash</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Cash</name>
         </author>
-        <link href="https://cashwu.github.io/gh-pages/abc-123.html"/>
-        <id>https://cashwu.github.io/gh-pages/abc-123.html</id>
+        <link href="https://cashwu.github.io/gh-pages/abc-123/"/>
+        <id>https://cashwu.github.io/gh-pages/abc-123/</id>
 
         <updated>2018-09-07T08:51:42+08:00</updated>
             <summary>
@@ -66,8 +66,8 @@
         <author>
             <name>Cash</name>
         </author>
-        <link href="https://cashwu.github.io/gh-pages/test-123.html"/>
-        <id>https://cashwu.github.io/gh-pages/test-123.html</id>
+        <link href="https://cashwu.github.io/gh-pages/test-123/"/>
+        <id>https://cashwu.github.io/gh-pages/test-123/</id>
 
         <updated>2018-09-06T23:05:20+08:00</updated>
             <summary>
