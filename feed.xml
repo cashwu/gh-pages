@@ -3,12 +3,39 @@
     <title>Cash Wu Geek</title>
     <link href="https://cashwu.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://cashwu.github.io/gh-pages" />
-    <updated>2018-09-06T23:09:28+08:00</updated>
+    <updated>2018-09-07T08:42:25+08:00</updated>
     <author>
         <name>Cash</name>
     </author>
     <id>https://cashwu.github.io/gh-pages</id>
 
+    <entry>
+        <title>Abc 123</title>
+        <author>
+            <name>Cash</name>
+        </author>
+        <link href="https://cashwu.github.io/gh-pages/abc-123.html"/>
+        <id>https://cashwu.github.io/gh-pages/abc-123.html</id>
+
+        <updated>2018-09-07T08:42:20+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cashwu.github.io/gh-pages/media/posts/2/" alt="" />
+                     MAC 123 test 12312 using System; namespace Time { public class Time { private DateTime dt; public Time() { this.dt = DateTime.Now; } public Time(DateTime dt) { this.dt = dt; } public Time(IDateTime dt) { this.dt = dt.GetDate(); } public string GetNowString() { return dt.ToString("yyyy/MM/dd&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cashwu.github.io/gh-pages/media/posts/2/" alt="" />
+                <figure class="post__image post__image--wide" ><img src="https://cashwu.github.io/gh-pages/media/posts/2/aa.jpeg" alt="test" width="276" height="183">
+<figcaption > MAC 123</figcaption>
+</figure>
+<p> </p>
+<p>test 12312 </p>
+<pre>using System;<br><br>namespace Time<br>{<br><br> public class Time<br> {<br><br> private DateTime dt;<br><br> public Time()<br> {<br>   this.dt = DateTime.Now;<br> }<br><br> public Time(DateTime dt)<br> {<br>   this.dt = dt;<br> }<br><br> public Time(IDateTime dt)<br> {<br>   this.dt = dt.GetDate();<br> }<br><br> public string GetNowString()<br> {<br>   return dt.ToString("yyyy/MM/dd HH:mm:ss fff");<br> }<br> <br> public interface IDateTime<br> {<br>   DateTime GetDate();<br> }<br>}</pre>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>TEST 123</title>
         <author>
