@@ -3,7 +3,7 @@
     <title>Cash Wu Geek</title>
     <link href="https://cashwu.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://cashwu.github.io/gh-pages" />
-    <updated>2018-09-07T10:24:22+08:00</updated>
+    <updated>2018-09-07T10:27:12+08:00</updated>
     <author>
         <name>Cash</name>
     </author>
@@ -17,11 +17,17 @@
         <link href="https://cashwu.github.io/gh-pages/abc-123/"/>
         <id>https://cashwu.github.io/gh-pages/abc-123/</id>
 
-        <updated>2018-09-07T08:51:42+08:00</updated>
+        <updated>2018-09-07T10:27:07+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cashwu.github.io/gh-pages/media/posts/2/" alt="" />
-                    <figure class="post__image post__image--wide" contenteditable="false"><img src="#DOMAIN_NAME#aa.jpeg" alt="test" width="276" height="183">
+                    <p>sdfsdf</p>
+<p>sdf</p>
+<p>sdf</p>
+<p>sdfsdfsdf</p>
+<p>sdfsfsdfsdf</p>
+<p> </p>
+<figure class="post__image post__image--wide" contenteditable="false"><img src="#DOMAIN_NAME#aa.jpeg" alt="test" width="276" height="183">
 <figcaption contenteditable="true"> MAC 123</figcaption>
 </figure>
 <p> </p>
@@ -41,7 +47,13 @@
         <content type="html">
             <![CDATA[
                     <img src="https://cashwu.github.io/gh-pages/media/posts/2/" alt="" />
-                <figure class="post__image post__image--wide" ><img src="https://cashwu.github.io/gh-pages/media/posts/2/aa.jpeg" alt="test" width="276" height="183">
+                <p>sdfsdf</p>
+<p>sdf</p>
+<p>sdf</p>
+<p>sdfsdfsdf</p>
+<p>sdfsfsdfsdf</p>
+<p> </p>
+<figure class="post__image post__image--wide" ><img src="https://cashwu.github.io/gh-pages/media/posts/2/aa.jpeg" alt="test" width="276" height="183">
 <figcaption > MAC 123</figcaption>
 </figure>
 <p> </p>
